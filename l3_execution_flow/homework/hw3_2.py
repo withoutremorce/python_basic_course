@@ -17,4 +17,4 @@ cvv = input("Input cvv - ")
 if len(cvv) < 3:
     print("ERROR CVV must be not less than 3 character")
 elif ((len(str(nomer))==16) and (type(d) == datetime.date) and (len(cvv) >= 3)) :
-    print("Ha-ha-ha. Now I will use your credit card!")
+    print("Ha- ha- ha. Now I will use your credit card!")
